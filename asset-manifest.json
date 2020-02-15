@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shivakumar1406/cart.git/static/css/main.1c020371.chunk.css",
+    "main.js": "/Shivakumar1406/cart.git/static/js/main.3b846d01.chunk.js",
+    "main.js.map": "/Shivakumar1406/cart.git/static/js/main.3b846d01.chunk.js.map",
+    "runtime-main.js": "/Shivakumar1406/cart.git/static/js/runtime-main.ba70af17.js",
+    "runtime-main.js.map": "/Shivakumar1406/cart.git/static/js/runtime-main.ba70af17.js.map",
+    "static/js/2.26a8ab3b.chunk.js": "/Shivakumar1406/cart.git/static/js/2.26a8ab3b.chunk.js",
+    "static/js/2.26a8ab3b.chunk.js.map": "/Shivakumar1406/cart.git/static/js/2.26a8ab3b.chunk.js.map",
+    "index.html": "/Shivakumar1406/cart.git/index.html",
+    "precache-manifest.c192619fad872b7217d573ba7fb1f63c.js": "/Shivakumar1406/cart.git/precache-manifest.c192619fad872b7217d573ba7fb1f63c.js",
+    "service-worker.js": "/Shivakumar1406/cart.git/service-worker.js",
+    "static/css/main.1c020371.chunk.css.map": "/Shivakumar1406/cart.git/static/css/main.1c020371.chunk.css.map",
+    "static/js/2.26a8ab3b.chunk.js.LICENSE.txt": "/Shivakumar1406/cart.git/static/js/2.26a8ab3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba70af17.js",
+    "static/js/2.26a8ab3b.chunk.js",
+    "static/css/main.1c020371.chunk.css",
+    "static/js/main.3b846d01.chunk.js"
+  ]
+}
