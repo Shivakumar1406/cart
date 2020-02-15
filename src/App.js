@@ -24,7 +24,7 @@ class App extends Component {
       });
     }
 
-    fetch("http://localhost:8000/products")
+    fetch("https://myfelight.firebaseapp.com/shriproducts.json")
       .then(res => res.json())
       .catch(err =>
         fetch("db.json")
